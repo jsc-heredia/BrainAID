@@ -73,3 +73,15 @@ h1{
     padding: 10px 0px;
 
 }
+/*Hoja de estilos*/
+#entorno {
+	display: block;
+    margin: 0 left;
+    background-color: gray;
+    border-radius: 8px;
+    border: 5px solid black;
+}
+
+#fondo {
+	opacity: 0.3;
+}
