@@ -1,0 +1,20 @@
+html, body {
+    background-image: url(../img/Horizon.jpg);
+    object-fit: fill;
+    color: aliceblue;
+}
+
+canvas {
+    position: absolute;
+    padding: 0;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    border: 5px solid #fff;
+}
+h1{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
